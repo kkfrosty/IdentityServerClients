@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyJWTConsole", "MyJWTConsole\MyJWTConsole.csproj", "{F754A146-B6C9-431B-BE58-533ADD4F81FB}"
+EndProject
+Global
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 2
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = http://tfs-10:8080/tfs/internal%20projects
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = MyJWTConsole\\MyJWTConsole.csproj
+		SccProjectName1 = MyJWTConsole
+		SccLocalPath1 = MyJWTConsole
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F754A146-B6C9-431B-BE58-533ADD4F81FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F754A146-B6C9-431B-BE58-533ADD4F81FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F754A146-B6C9-431B-BE58-533ADD4F81FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F754A146-B6C9-431B-BE58-533ADD4F81FB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

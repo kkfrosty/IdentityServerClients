@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<configurationSnapshot xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="urn:schemas-microsoft-com:xml-wcfconfigurationsnapshot">
+  <behaviors />
+  <bindings>
+    <binding digest="System.ServiceModel.Configuration.CustomBindingElement, System.ServiceModel, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089:&lt;?xml version=&quot;1.0&quot; encoding=&quot;utf-16&quot;?&gt;&lt;Data name=&quot;customBinaryEndpointWcf&quot;&gt;&lt;binaryMessageEncoding /&gt;&lt;httpsTransport /&gt;&lt;/Data&gt;" bindingType="customBinding" name="customBinaryEndpointWcf" />
+  </bindings>
+  <endpoints>
+    <endpoint normalizedDigest="&lt;?xml version=&quot;1.0&quot; encoding=&quot;utf-16&quot;?&gt;&lt;Data address=&quot;https://i970.n-sv.com/WCFJWTServices/Service1.svc&quot; binding=&quot;customBinding&quot; bindingConfiguration=&quot;customBinaryEndpointWcf&quot; contract=&quot;WcfJwtSvc.IService1&quot; name=&quot;customBinaryEndpointWcf&quot; /&gt;" digest="&lt;?xml version=&quot;1.0&quot; encoding=&quot;utf-16&quot;?&gt;&lt;Data address=&quot;https://i970.n-sv.com/WCFJWTServices/Service1.svc&quot; binding=&quot;customBinding&quot; bindingConfiguration=&quot;customBinaryEndpointWcf&quot; contract=&quot;WcfJwtSvc.IService1&quot; name=&quot;customBinaryEndpointWcf&quot; /&gt;" contractName="WcfJwtSvc.IService1" name="customBinaryEndpointWcf" />
+  </endpoints>
+</configurationSnapshot>
